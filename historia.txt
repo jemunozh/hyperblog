@@ -1,5 +1,6 @@
 Esta es la historia de Julian Muñoz
 
 Actualmente está aprendiendo Git & Github y prueba con este primer archivo.
+Hizo su primer commit y le fue muy bien, se está familiarizando con la terminal y se emociona con la programación.
 
-Tiene 30 años en el año 2023 y será un crack en el diseño y la tecnología
+Tiene 30 años en el año 2023 y será un crack en el diseño y la tecnología, en el año 2024
